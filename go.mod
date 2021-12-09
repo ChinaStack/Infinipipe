@@ -1,4 +1,4 @@
-module github.com/tsaikd/gogstash
+module github.com/ChinaStack/Infinipipe
 
 go 1.16
 
